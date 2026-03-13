@@ -200,6 +200,4 @@ Free: 5GB
 
 Disk Usage:
 /dev/sda1 100G 45G 55G
-```
 
----
