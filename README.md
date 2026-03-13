@@ -203,17 +203,3 @@ Disk Usage:
 ```
 
 ---
-
-# Future Improvements
-
-* Email alerts for high CPU usage
-* Disk space warning notifications
-* Web dashboard for monitoring
-* Log file analysis
-
----
-
-# Author
-
-Lakshmana Sai Karumuri
-B.Tech – Artificial Intelligence and Data Science
